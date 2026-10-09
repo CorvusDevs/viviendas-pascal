@@ -1,0 +1,8 @@
+# Third-party notices
+
+Pascal viewer/controller code is derived from https://github.com/pascalorg/editor at commit 7fc874faec800e18f8be2dab78e7dc2ff2327bd7.
+Copyright (c) 2026 Pascal Group Inc. MIT license, included in public/licenses/pascal.txt and the deployed licenses/pascal.txt.
+
+The Pascal BVH character controller is retained. Collider extraction is retained from the GLB controller. The host adds local asset loading, a user interface, touch input, explicit rendering, error handling and reset controls. This is a static viewer derived from Pascal, not Pascal Next or the full Pascal Editor.
+
+Dependencies have their own licenses. Distribution must include their notices. Model assets are not licensed by the Pascal software license; only resources specifically cleared in the model manifest may be published.

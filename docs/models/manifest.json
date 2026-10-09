@@ -1,0 +1,45 @@
+{
+  "model": "viviendas.glb",
+  "collision": "collision.glb",
+  "plan": "planta.svg",
+  "assetLicenseVerified": true,
+  "fixture": false,
+  "modelVersion": "2026-10-08",
+  "houses": [
+    {
+      "id": "vivienda-1",
+      "label": "Vivienda 1",
+      "spawn": {
+        "position": [
+          3.75,
+          1.825,
+          -10.75
+        ],
+        "yaw": 0
+      },
+      "target": [
+        6.3,
+        1,
+        -10.7
+      ]
+    },
+    {
+      "id": "vivienda-2",
+      "label": "Vivienda 2",
+      "spawn": {
+        "position": [
+          21.6,
+          1.825,
+          -10.75
+        ],
+        "yaw": 0
+      },
+      "target": [
+        19,
+        1,
+        -10.7
+      ]
+    }
+  ],
+  "limits": "Arquitectura real con materiales simplificados. Puertas abiertas y muebles de terceros omitidos."
+}
